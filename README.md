@@ -6,7 +6,7 @@ Comcast is an American global telecommunication company. The firm has been provi
 The existing database will serve as a repository of public customer complaints filed against Comcast.
 It will help to pin down what is wrong with Comcast's customer service.
 
-Data Dictionary
+Data Dictionary:
 
 Ticket #: Ticket number assigned to each complaint
 
@@ -28,7 +28,7 @@ Status: Status of complaint
 
 Filing on behalf of someone
 
-Analysis Task
+Analysis Task:
 
 To perform these tasks, you can use any of the different Python libraries such as NumPy, SciPy, Pandas, scikit-learn, matplotlib, and BeautifulSoup.
 
